@@ -1,2 +1,2 @@
 import wave
-import pylab
+string='this is a test'
