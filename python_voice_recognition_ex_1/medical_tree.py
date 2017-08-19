@@ -1,5 +1,5 @@
-#!/usr/env/bin python
-# coding=utf-8
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
 
 class node:
     def __init__(self, data):
