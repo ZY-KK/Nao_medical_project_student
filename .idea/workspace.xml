@@ -18,8 +18,18 @@
       <file leaf-file-name="keywords_finding.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/keywords_finding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="863">
-              <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+            <state relative-caret-position="1425">
+              <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keywords.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/keywords.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -28,8 +38,8 @@
       <file leaf-file-name="medical_tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/medical_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="813">
-              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+            <state relative-caret-position="2200">
+              <caret line="88" column="31" lean-forward="false" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -45,22 +55,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="speech_recognition_by_Nao.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="speech_recognition_by_Nao.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/speech_recognition_by_Nao.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding />
+            <state relative-caret-position="363">
+              <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="7" />
+              <folding>
+                <element signature="e#44#59#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="diagnose.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="diagnose.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/diagnose.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="425">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#45#70#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,8 +98,8 @@
         <option value="$PROJECT_DIR$/python_voice_recognition_ex_1/speechToText.py" />
         <option value="$PROJECT_DIR$/python_voice_recognition_ex_1/medical_tree.py" />
         <option value="$PROJECT_DIR$/python_voice_recognition_ex_1/keywords_finding.py" />
-        <option value="$PROJECT_DIR$/python_voice_recognition_ex_1/diagnose.py" />
         <option value="$PROJECT_DIR$/python_voice_recognition_ex_1/speech_recognition_by_Nao.py" />
+        <option value="$PROJECT_DIR$/python_voice_recognition_ex_1/diagnose.py" />
       </list>
     </option>
   </component>
@@ -361,7 +375,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26652452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -432,7 +446,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="e#44#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -472,7 +488,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="e#44#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -512,7 +530,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="30" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="e#44#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -588,6 +608,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/keywords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/speechToText.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -596,35 +624,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/diagnose.py">
+    <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/medical_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="2200">
+          <caret line="88" column="31" lean-forward="false" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/keywords_finding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="863">
-          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/medical_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="813">
-          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        <state relative-caret-position="1425">
+          <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/speech_recognition_by_Nao.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="363">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="e#44#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_voice_recognition_ex_1/diagnose.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#45#70#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
