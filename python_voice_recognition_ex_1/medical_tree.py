@@ -40,50 +40,16 @@ class tree:
     def getHeader(self):
         return self._head
 
-    childrenArray = []
+    fatherNode=None
 
-    def findLastChildren(self, node, string):
+    def findFather(self, node, string):
 
 
         if len(node.getchildren())==0:
             if node.getdata()==string:
-                self.childrenArray.append(node.getFather()[0].getdata())
+                self.fatherNode=(node.getFather()[0].getdata())
         else:
             for i in node.getchildren():
-                self.findLastChildren(i,string)
-        return self.childrenArray
+                self.findFather(i,string)
+        return self.fatherNode
 
-
-if __name__ == "__main__":
-    """create nodes"""
-    hospital = node('Hospital')
-    internalDepartment = node('Internal Department')
-    surgicalDepartment = node('Surgical Department')
-    fever = node('fever')
-    headache = node('headache')
-    blood = node('blood')
-    fall = node('fall')
-
-    """add the value"""
-    hospital.addChildren(internalDepartment)
-    hospital.addChildren(surgicalDepartment)
-    internalDepartment.addChildren(fever)
-    internalDepartment.addChildren(headache)
-    surgicalDepartment.addChildren(blood)
-    surgicalDepartment.addChildren(fall)
-
-    internalDepartment.addFather(hospital)
-    surgicalDepartment.addFather(hospital)
-
-    fever.addFather(internalDepartment)
-    headache.addFather(internalDepartment)
-
-    blood.addFather(surgicalDepartment)
-    fall.addFather(surgicalDepartment)
-
-    tree = tree(hospital)
-    #    tree.linktohead(hospital)
-
-    # testcase
-
-    print tree.findLastChildren(hospital, "blood")
